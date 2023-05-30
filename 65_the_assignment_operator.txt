@@ -1,0 +1,31 @@
+
+Section 08: The Assignment Operator
+-------------------------------------------------------------------------------
+
+Assignment Operator (=)
+
+lhs = rhs
+
+	- rhs is an expression that is evaluated to a value
+
+	- The value of the rhs is stored to the lhs
+
+	
+	- The value of the rhs must be type compatible with the lhs
+
+	- Th lhs must be assignable
+
+
+	- Assignment expression is evaluated to what was just assigned
+	
+	- More than one variable can be assigned in a single statement
+
+
+Notes
+
+	- lhs is left-hand side
+
+	- rhs is right-hand side
+
+
+
