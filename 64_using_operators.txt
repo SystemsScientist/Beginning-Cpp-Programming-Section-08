@@ -1,0 +1,29 @@
+
+Section 08: Using Operators
+---------------------------------------------------------------
+
+Using Operators
+
+	- C++ has a rich set of operators
+
+		+ unary, binary, ternary
+
+
+	- Common operators can be grouped as follows:
+
+		+ assignment
+
+		+ arithmetic
+
+		+ increment/decrement
+
+		+ relational
+
+		+ logical
+
+		+ member access
+
+		+ other
+
+
+
