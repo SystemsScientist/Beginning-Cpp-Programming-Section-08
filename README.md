@@ -1,4 +1,4 @@
-#Beginning C++ Programming - From Beginner to Beyond
+# Beginning C++ Programming - From Beginner to Beyond
 
 This repository contains Section 08 content for Beginning C++ Programming:
 From Beginner to Beyond By Frank J. Mitropoulos, Ph.D., which covers expressions,
