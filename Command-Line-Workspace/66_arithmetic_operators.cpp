@@ -1,4 +1,21 @@
-
+/* 
+ * Author: Matt Johnson
+ * Subject: arithmetic operators
+ * Purpose: execute arithmetic operators
+ * Date: 06/01/2023
+ *
+ * Notes:
+ *
+ * 	- use ' + ' for addition
+ * 	- use ' - ' for subtraction
+ * 	- use ' * ' for multiplication
+ * 	- use ' / ' for division
+ * 	- use ' % ' for modulo or remainder (only works with integers)
+ *
+ * 	- +, -, * and / operators are overloaded to work with multiple
+ * 	  types such as int, double, etc.
+ * 	- % only with integer types
+ */
 
 #include <iostream>
 
