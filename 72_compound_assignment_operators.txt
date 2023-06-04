@@ -1,0 +1,30 @@
+
+Section 08: Compound Assignment Operators
+------------------------------------------------------------------------
+
+Operator	Example		Meaning
+
++=		lhs += rhs;	lhs = lhs + (rhs);
+-=		lhs -= rhs;	lhs = lhs - (rhs);
+*= 		lhs *= rhs;	lhs = lhs * (rhs);
+/=		lhs /= rhs;	lhs = lhs / (rhs);
+%=		lhs %= rhs;	lhs = lsh % (rhs);
+>>=		lhs >>= rhs;	lhs = lhs >> (rhs);
+<<=		lhs <<= rhs;	lhs = lhs << (rhs);
+&=		lhs &= rhs;	lhs = lhs & (rhs);
+^=		lhs ^= rhs;	lhs = lhs ^ (rhs);
+|= 		lhs |= rhs;	lsh = lhs | (rhs);
+
+
+Examples
+
+	lhs op= rhs;	// lhs = lhs op (rhs); 
+
+	a += 1;		// a = a + 1;
+	a /= 5;		// a = a / 5;
+	a *= b + c;	// a = a * (b + c);
+
+	cost += items * tax;	// cost = cost + (items * tax);
+
+
+
